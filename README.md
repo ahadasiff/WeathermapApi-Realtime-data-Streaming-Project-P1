@@ -22,8 +22,7 @@ This project demonstrates the implementation of an automated ETL (Extract, Trans
 - JSON/CSV
 
 ## Project Structure
-![etl img](image.png)
-
+ ![Image Alt](https://github.com/ahadasiff/WeathermapApi-Realtime-data-Streaming-Project-P1/blob/536c7ac4e5e8cdbb69591c758c19349e6e65eaef/Weathermap-Diagram.png)
 
 ## Setup and Installation
 
